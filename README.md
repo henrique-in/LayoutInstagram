@@ -4,7 +4,8 @@
 </h1>
 
 <h4 align="center">
-  This app lists the GitHub trending page with favorites and lists the details of the selected repository
+  
+This app presents the layout of the instagram home screen
 </h4>
 
 
